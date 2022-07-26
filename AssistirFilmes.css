@@ -33,9 +33,9 @@ main {
 select {
     margin: 2rem;
     width: 40rem;
-    height: 3rem;
+    height: 6rem;
 
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 option {
@@ -44,7 +44,7 @@ option {
 
 iframe {
     width: 85rem;
-    height: 50rem;
+    height: 48rem;
 
     border: double 0.6rem white;
     margin: 0.4rem;
