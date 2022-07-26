@@ -49,3 +49,9 @@ iframe {
     border: double 0.6rem white;
     margin: 0.4rem;
 }
+
+button {
+    border-radius: 0.4rem;
+    width: 2rem;
+    height: 1rem;
+}
