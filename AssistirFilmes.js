@@ -10,10 +10,8 @@ var ifrm = document.getElementById("iframe")
 
 function Enviar() {
     var select = document.getElementById("filmes");
-    var opcaoTexto = select.options[select.selectedIndex].text;
+    //var opcaoTexto = select.options[select.selectedIndex].text;
     var opcaoValor = select.options[select.selectedIndex].value;
-    console.log(opcaoTexto); 
-    console.log(opcaoValor); 
 
     if (opcaoValor < 1) {
         alert("Escolha um Filme")
