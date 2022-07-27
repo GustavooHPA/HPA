@@ -55,12 +55,3 @@ function Enviar() {
         ifrm.setAttribute("src", "https://drive.google.com/file/d/15z-tKCwx8xaNcc2Rn55YyivUF24K1qNM/preview")
     }
 }
-
-
-/*function Enviar() {
-    if (FilmeEscolhido == Filme) {
-        for (i == 0; i < 1; i++) {
-            
-        }
-    }
-} */
