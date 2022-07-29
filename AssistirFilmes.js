@@ -50,6 +50,6 @@ function Enviar() {
     } else if (opcaoValor == 17) {
         ifrm.setAttribute("src", "https://drive.google.com/file/d/10RzSzDq_dkqydQtTj-WZPthv_SgCX9od/preview")
     } else if (opcaoValor == 18) {
-        ifrm.setAttribute("src", "https://fast.wistia.net/embed/iframe/4memhrg3fe?")
+        ifrm.setAttribute("src", "https://drive.google.com/file/d/15z-tKCwx8xaNcc2Rn55YyivUF24K1qNM/preview")
     }
 }
